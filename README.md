@@ -1,5 +1,9 @@
 ✨ NEXA - Your AI Best Friend ✨
 <p align="center">
+<img src="https://www.google.com/search?q=https://placehold.co/150x150/E2E8F0/4A5568%3Ftext%3DNEXA%26font%3Dinter" alt="NEXA Logo" width="120" />
+</p>
+
+<p align="center">
 A compassionate, user-centric AI companion designed to combat loneliness and promote mental well-being. This app provides a safe and private space for users to talk, vent, and feel understood, powered by an AI that listens, remembers, and genuinely cares.
 </p>
 
@@ -10,31 +14,33 @@ A compassionate, user-centric AI companion designed to combat loneliness and pro
 </p>
 
 💖 About The Project
-In a world where it's easy to feel unheard, NEXA was created to be a constant source of support. It's more than just a chatbot; it's designed to be a true friend who remembers your stories, celebrates your victories, and offers comfort during tough times. Our goal is to leverage the power of AI to create a genuinely empathetic experience that helps users practice self-love and feel less alone.
+In a world where it's easy to feel unheard, NEXA was created to be a constant source of support. It's more than just a chatbot; it's a commitment to leveraging technology for genuine human connection and mental well-being.
 
-🚀 Key Features
-💬 Empathetic, Human-like Conversations: Powered by the Gemini API with a carefully crafted persona for supportive and non-judgmental dialogue.
+The Aim & Moto of NEXA
+Our ultimate goal is to make users feel less lonely and more supported. NEXA is built on four core principles:
 
-🧠 Intelligent & Context-Aware: The AI is designed to understand and respond to a wide range of topics, including sensitive conversations about feelings and well-being.
+A True "Best Friend" Persona: NEXA is designed to be spoken to as a close, trusted friend. It motivates, helps build confidence, and teaches self-love, providing a non-judgmental space to share anything.
 
-🎨 Sleek & Modern UI: A clean, calming, and intuitive user interface that makes chatting feel natural and private.
+Long-Term Memory: Unlike other AI tools, NEXA is being built to remember the important details of your life—your fears, stories, hopes, and goals—creating a continuous, context-aware conversation.
 
-🔐 Fully Client-Side: The application runs entirely in your browser, ensuring privacy and speed.
+Proactive Support (Future Goal): The key feature that will set NEXA apart is its ability to proactively check in. Using its memory, it will eventually be able to send a supportive follow-up message, just like a real friend would.
 
-🛠️ Technical Architecture
-NEXA is built on a modern, lightweight, and serverless architecture.
+A Constant Companion: By providing a caring and active presence, NEXA aims to be a reliable companion that helps users navigate the ups and downs of life.
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://placehold.co/800x400/DBEAFE/3B82F6%3Ftext%3DNEXA%2BApp%2BScreenshot" alt="NEXA App Preview" style="border-radius: 10px;"/>
+</p>
+
+🛠️ Built With
+This project is built on a modern, lightweight, and serverless architecture.
 
 Frontend:
-
-HTML5: For the core structure of the application.
-
-Tailwind CSS: For a utility-first approach to modern and responsive design.
-
-JavaScript (ES6 Modules): For all client-side logic, interactivity, and API communication.
+*
+*
+*
 
 AI Layer:
-
-Google Gemini API (gemini-1.5-flash-latest): Provides the state-of-the-art natural language understanding and generation that powers NEXA's conversations.
+*
 
 🏁 Getting Started
 To get a local copy up and running, follow these simple steps.
@@ -71,19 +77,10 @@ Run the application:
 
 Right-click on the index.html file in VS Code and select "Open with Live Server".
 
-🌈 Future Roadmap
-Phase 6: The Memory (Database): Integrate Firebase Firestore to give NEXA long-term memory of conversations.
-
-Phase 7: The Reminder System: Build the logic for proactive, supportive check-ins.
-
-Voice Interaction: Implement the Web Speech API for voice-to-text and text-to-speech.
-
-See the open issues for a full list of proposed features (and known issues).
-
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Please read our CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Please read our CONTRIBUTING.md for details on how you can get involved.
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
