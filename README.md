@@ -66,11 +66,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nidhi-ai01/NEXA.git](https://github.com/nidhi-ai01/NEXA.git)
+    git clone [https://github.com/nidhi-ai01/NEXIA.git](https://github.com/nidhi-ai01/NEXIA.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd NEXA
+    cd NEXIA
     ```
 3.  **Add your API Key:**
     * Open the `index.html` file.
@@ -85,7 +85,7 @@ To get a local copy up and running, follow these simple steps.
 
 This is a project with a powerful mission, and we welcome any and all contributions. If you believe in our goal to reduce loneliness and promote self-love, we would be thrilled to have your help.
 
-Please read our **[CONTRIBUTING.md](https://github.com/nidhi-ai01/NEXA/blob/main/CONTRIBUTING.md)** for details on how you can get involved.
+Please read our **[CONTRIBUTING.md](https://github.com/nidhi-ai01/NEXIA/blob/main/CONTRIBUTING.md)** for details on how you can get involved.
 
 ---
 
